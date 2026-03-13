@@ -46,7 +46,7 @@
     {
       "@type": "Review",
       "author": "Shobha Srivathsa",
-      "datePublished": "2026-03-13",
+      "datePublished": "2026-??-??",
       "reviewBody": "Service was very good. Humble staff. Very well cleaned. We are satisfied with the job. Went for Bathroom cleaning this time. Very well executed the job. Every time we are satisfied with the work be it sofa cleaning, bathroom cleaning etc., I would definitely recommend this. Thanks. Keep it up. 5 stars without a doubt.",
       "reviewRating": {
         "@type": "Rating",
@@ -56,7 +56,7 @@
     {
       "@type": "Review",
       "author": "Arvinder Singh",
-       "datePublished": "2026-03-13",
+      "datePublished": "2026-??-??",
       "reviewBody": "Good service very professional",
       "reviewRating": {
         "@type": "Rating",
@@ -66,7 +66,7 @@
     {
       "@type": "Review",
       "author": "Geetha Ballal",
-      "datePublished": "2026-03-13",
+      "datePublished": "2026-??-??",
       "reviewBody": "Kamal Kishore and Ranjan were fantastic, professional, quick and polite. Would recommend them again.",
       "reviewRating": {
         "@type": "Rating",
@@ -86,6 +86,32 @@
   }
 }
 </script>
+
+
+  <!-- local business schema  -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "v3care",
+      "image": "https://v3care.in/assets/v3logo-Bye1VR8z.png",
+      "@id": "",
+      "url": "https://v3care.in/",
+      "telephone": "98807 78585",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "286 15th A Cross, 7th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+        "addressLocality": "Bengaluru",
+        "postalCode": "560102",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9134731,
+        "longitude": 77.633077
+      }  
+    }
+    </script>
 
 
     <!-- organization  schema  -->
